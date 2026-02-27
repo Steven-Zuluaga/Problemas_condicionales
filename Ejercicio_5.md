@@ -1,6 +1,6 @@
 # Ejercicio 5
 
-'''
+
 Sistema	de	Descuentos	de	Tienda
 Una	tienda	ofrece	descuentos	basados	en	el	monto	de	la	compra:
 
@@ -11,4 +11,4 @@ Una	tienda	ofrece	descuentos	basados	en	el	monto	de	la	compra:
 • Si	es	menor	a	$500,	no	hay	descuento.
 
 Calcula	el	monto	final	que	debe	pagar	el	cliente.
-'''
+
