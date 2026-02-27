@@ -1,7 +1,7 @@
 # Ejercicio 5
 
 
-Sistema	de	Descuentos	de	Tienda
+###Sistema	de	Descuentos	de	Tienda
 Una	tienda	ofrece	descuentos	basados	en	el	monto	de	la	compra:
 
 • Si	la	compra	es	mayor	a	$1000,	descuento	del	20%.
