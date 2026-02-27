@@ -57,6 +57,6 @@ elif a >= 500 :
   print(f'El monto a pagar es {valor_a_pagar}')
 
 elif a > 0 :
-  print('No se aplic}a descuento')
+  print('No se aplica descuento')
   print(f'El monto a pagar es {a}')
 ```
