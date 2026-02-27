@@ -5,8 +5,11 @@ Calculadora de Índice de Masa Corporal (IMC) Solicita el peso (kg) y la altura 
 Calcula el IMC (𝐼𝑀𝐶 = peso/ altura**2)
 
 •	<18.5: Bajo peso
+
 •	18.5 − 24.9: Normal
+
 •	25.0 − 29.9: Sobre
+
 •	≥30.0: Obesidad
 
 
