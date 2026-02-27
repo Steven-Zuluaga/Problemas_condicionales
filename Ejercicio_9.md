@@ -44,8 +44,8 @@ FinSi
 - Código
 
 ```python 
-a = float(input('Cuanto pesas: '))
-b = float(input('Cuanto mides: '))
+a = float(input('Cuanto pesas(kg): '))
+b = float(input('Cuanto mides(m): '))
 
 IMC = (a / (b ** 2))
 
