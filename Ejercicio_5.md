@@ -40,7 +40,7 @@ Sino Si a > 0 Entonces
 
 - Código
 
-```
+```python 
 a = float(input('valor a pagar: '))
 
 if a < 0 :
